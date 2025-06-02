@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 
 const habits = [
+  "Guter Stuhlgang",
   "Mindestens 2 Liter Flüssigkeit getrunken",
   "Alkoholfrei",
-  "Guter Stuhlgang",
   "Zucker- und Süßigkeitenfrei",
   "Keine Fertigprodukte mit mehr als 3 Zutaten gegessen",
   "Kein glutenhaltiges Getreide gegessen",
